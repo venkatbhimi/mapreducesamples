@@ -14,7 +14,7 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
 /**
- * Created by Venkat on 05/11/2015.
+ * Created by VB on 05/11/2015.
  */
 public class WordCountJob extends Configured implements Tool{
 

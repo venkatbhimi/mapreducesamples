@@ -9,7 +9,7 @@ import org.apache.commons.lang.StringUtils;
 import java.io.IOException;
 
 /**
- * Created by Venkat on 05/11/2015.
+ * Created by VB on 05/11/2015.
  */
 public class WordCountMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 
