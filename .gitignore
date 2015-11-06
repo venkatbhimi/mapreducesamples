@@ -3,4 +3,4 @@
 *.war
 *.iml
 *.ear
-
+*.DS_Store
